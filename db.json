@@ -1,0 +1,21 @@
+{
+  "token": [
+    { "token": "550e8400-e29b-41d4-a716-446655440000"}
+
+  ],
+  "Slot2": {
+    "name": "typicode"
+  },
+  "Slot3": [
+    { "id": 1, "name": "Kaķēni", "pointCount": 3 },
+    { "id": 2, "name": "Lauvas", "pointCount": 8 },
+    { "id": 3, "name": "Zivtiņas", "pointCount": 13 }
+  ],
+   "Slot4": [
+    { "id": 1, "name": "Laima Bedrīte", "pointCount": 3 }
+  ],
+  "Slot5": [
+    { "true": "true"},
+    { "false": "false"}
+  ]
+}
